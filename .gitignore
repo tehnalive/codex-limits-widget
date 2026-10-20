@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+.tools/
+artifacts/
+Виджет лимитов.exe
+*.user
