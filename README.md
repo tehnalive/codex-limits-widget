@@ -6,7 +6,7 @@
 
 ## Установка
 
-1. Скачайте `Виджет лимитов.exe` со страницы [последнего релиза](https://github.com/tehnalive/codex-limits-widget/releases/latest).
+1. Скачайте Windows x64 EXE со страницы [последнего релиза](https://github.com/tehnalive/codex-limits-widget/releases/latest).
 2. Запустите EXE. .NET устанавливать не нужно.
 3. Убедитесь, что Codex CLI или приложение Codex установлено и выполнен вход в аккаунт ChatGPT.
 
